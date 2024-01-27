@@ -1,7 +1,12 @@
 Привет, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Максим
 ===================================================================================================================================
 
-Я начинающий Data Scientist (ML engineer)
+- :computer: Data Scientist [@Senatorov](https://t.me/RuslanSenatorov), in US
+- :hammer_and_wrench: I build models with: `Python` `SQL` `Math` ...
+- :writing_hand: Write technical blogs on my [WebSite](https://www.senatorov.su/) 
+- ⚡ I enjoy: Math :) 
+- :student: Master's in Math
+
 
 * 🌍 Я живу в Санкт-Петербурге
 * ✉️ Вы можете связаться со мной по [mr.maks.pupkin.89@mail.ru](mailto:mr.maks.pupkin.89@mail.ru)
