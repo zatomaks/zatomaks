@@ -3,6 +3,11 @@
 
 Я начинающий Data Scientist (ML engineer)
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 * 🌍 Я живу в Санкт-Петербурге
 * ✉️ Вы можете связаться со мной по [mr.maks.pupkin.89@mail.ru](mailto:mr.maks.pupkin.89@mail.ru)
 
