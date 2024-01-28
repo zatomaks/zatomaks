@@ -3,7 +3,6 @@
 
 - :hammer_and_wrench: I build models with: `Python` `SQL` `Math` ...
 - ⚡ I enjoy: Math :) 
-- :student: Master's in Math
 
 
 * 🌍 Я живу в Санкт-Петербурге
