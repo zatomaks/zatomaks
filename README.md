@@ -39,6 +39,8 @@
 1) "Поколение Python": курс для начинающих https://stepik.org/cert/2268757
 2) "Поколение Python": курс для продвинутых https://stepik.org/cert/2335685
 3) Kaggle  'Intro to Programming': https://www.kaggle.com/learn/certification/zatomaks/intro-to-programming
+4) КУРС «ОСНОВЫ PYTHON»: https://lab.karpov.courses/certificate/38fe6790-dc74-4225-a38f-b04e5e835605/en/
+
 
 <b>My GitHub Stats</b>
 
