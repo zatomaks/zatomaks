@@ -41,12 +41,6 @@
 3) Kaggle  'Intro to Programming': https://www.kaggle.com/learn/certification/zatomaks/intro-to-programming
 4) КУРС «ОСНОВЫ PYTHON»: https://lab.karpov.courses/certificate/38fe6790-dc74-4225-a38f-b04e5e835605/en/
 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/zatomaks"><img src="https://github-readme-stats.vercel.app/api?username=zatomaks&show_icons=true&hide=&title_color=facc15&text_color=000000&icon_color=facc15&bg_color=134e4a&hide_border=true&show_icons=true" alt="zatomaks's GitHub stats" /></a>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zatomaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zatomaks&theme=dark&hide_border=false)<br/>
